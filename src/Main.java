@@ -10,7 +10,6 @@ import static esercizio1.Rettangolo.stampaDueRettangoli;
 
 public class Main {
     public static void main(String[] args) {
-
 //        ESERCIZIO 1
         System.out.println("ESERCIZIO 1");
         Rettangolo rettangolo1 = new Rettangolo(6, 4);
@@ -37,6 +36,5 @@ public class Main {
         System.out.println(cliente1);
         System.out.println(Arrays.toString(articleArray));
         System.out.println(cart);
-
     }
 }
