@@ -17,6 +17,11 @@ public class SIM {
     }
 
     //    METHODS
+
+    public static void printData(SIM sim) {
+        System.out.println(sim);
+    }
+
     @Override
     public String toString() {
         return "SIM{" +

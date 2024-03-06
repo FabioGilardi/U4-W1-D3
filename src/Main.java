@@ -24,7 +24,7 @@ public class Main {
 //        ESERCIZIO 2
         System.out.println("ESERCIZIO 2");
         SIM sim1 = new SIM("1234567890");
-        System.out.println("sim1 è " + sim1);
+        SIM.printData(sim1);
 
 //        ESERCIZIO 3
         System.out.println("ESERCIZIO 3");
